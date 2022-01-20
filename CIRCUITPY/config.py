@@ -10,5 +10,5 @@ config = {
     'significant_change' : 25, # only report changes by this amount.  Prevision
     'power_saving_light_level' : 350, # below this light level, sleep longer
     'power_saving_sleep_interval' : 900, # how long to sleep in the dark
-    'helpful_url' : 'https://www.prusaprinters.org/print/121265'
+    'helpful_url' : 'https://github.com/patja/salud-co2-monitor/wiki/What-is-a-%22Salud%22%3F'
 }
