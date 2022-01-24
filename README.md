@@ -13,3 +13,4 @@ Features:
 * Uses the Sensirion SCD41 CO2 monitor
 * Swap out the bmp files for your own if you don't find the cats amusing.
 * 3D printed enclosure
+* No soldering or coding is required
